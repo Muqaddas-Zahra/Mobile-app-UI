@@ -1,2 +1,2 @@
 ### Figma Design
-You can access the Figma design here: [Figma File Link](https://www.figma.com/design/iZHzwEjB0F8u7mP4b545L2/Dep-task-3-%2C-4?node-id=0-1&t=O8dXIizTf3PEIotm-1)
+You can access the Figma design here: [https://www.figma.com/design/FItYNaOV7useUsf25dI4pd/Dep-task-2?node-id=0-1&t=66YoY17C7iHbSerN-1)
